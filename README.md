@@ -1,10 +1,14 @@
 # Cybersecurity-Virtual-Lab-VirtualBox-Kali-Linux
-Project Overview
+     
+     Project Overview 
+
+
 As part of my cybersecurity learning journey with NetworkWalks, I completed my first practical task setting up a virtual cybersecurity lab using Oracle VirtualBox and Kali Linux.
 
 The goal was to create an isolated and controlled environment for learning networking, ethical hacking, vulnerability assessment, and other cybersecurity concepts.
 
-Objectives
+    Objectives
+
 
 Install and configure Oracle VirtualBox.
 
@@ -22,7 +26,7 @@ Configure a shared host folder for file exchange.
 
 Take a virtual machine snapshot to support recovery.
 
-Lab Architecture
+     Lab Architecture
 
 Component
 
@@ -78,7 +82,8 @@ Work Completed
 
 Installed the required virtualisation software.
 
-Created the custom NAT Network for the lab.
+Created the custom NAT Network for the lab.<img width="1366" height="768" alt="Screenshot 2026-10-26 205829" src="https://github.com/user-attachments/assets/01ebbf4d-26fd-486e-8d0b-334dfe984ab4" />
+
 
 Imported and configured the Kali Linux virtual machine.
 
