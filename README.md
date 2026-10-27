@@ -10,7 +10,8 @@ The goal was to create an isolated and controlled environment for learning netwo
     Objectives
 
 
-Install and configure Oracle VirtualBox.
+Install and configure Oracle VirtualBox.<img width="1366" height="768" alt="Screenshot 2026-10-27 083038" src="https://github.com/user-attachments/assets/1d7e3087-6e34-452a-bf48-fe1ef51c362e" />
+
 
 Set up Kali Linux as the attacking and testing machine.
 
@@ -24,7 +25,8 @@ Configure clipboard and drag-and-drop integration.
 
 Configure a shared host folder for file exchange.
 
-Take a virtual machine snapshot to support recovery.
+Take a virtual machine snapshot to support recovery.<img width="1366" height="768" alt="Screenshot 2026-10-26 205829" src="https://github.com/user-attachments/assets/07d20253-3888-48bf-bc29-57590842c10e" />
+
 
      Lab Architecture
 
@@ -70,7 +72,8 @@ Tools and Technologies
 
 Oracle VirtualBox
 
-Kali Linux
+Kali Linux<img width="1366" height="768" alt="Screenshot 2026-10-27 083038" src="https://github.com/user-attachments/assets/02b6ce20-ca59-40f9-a1da-7963d0645185" />
+
 
 Virtual networking and NAT
 
@@ -82,7 +85,8 @@ Work Completed
 
 Installed the required virtualisation software.
 
-Created the custom NAT Network for the lab.<img width="1366" height="768" alt="Screenshot 2026-10-26 205829" src="https://github.com/user-attachments/assets/01ebbf4d-26fd-486e-8d0b-334dfe984ab4" />
+Created the custom NAT Network for the lab.<img width="1366" height="768" alt="Screenshot 2026-10-26 205925" src="https://github.com/user-attachments/assets/cce24f64-6652-4224-9aef-e17fd74856cb" />
+
 
 
 Imported and configured the Kali Linux virtual machine.
@@ -93,21 +97,21 @@ Configured virtual machine integration features.
 
 Prepared the environment for future cybersecurity exercises.
 
-Created a snapshot to make recovery easier after lab changes.
+Created a snapshot to make recovery easier after lab changes.<img width="1366" height="768" alt="Screenshot 2026-10-27 082423" src="https://github.com/user-attachments/assets/1946783b-00cb-47c5-94ce-62dff4ddaaa1" />
 
-Testing and Validation
+
+     Testing and Validation
+  
 
 The following checks are useful for confirming the environment is ready:
 
 Verify the Kali IP address with ip addr.
 
-Verify the default route with ip route.
+Verify the default route with ip route.<img width="1366" height="768" alt="Screenshot 2026-10-27 082655" src="https://github.com/user-attachments/assets/0b0fe4ee-6cc1-4806-9bcb-47dcfa2f6626" />
 
 Test connectivity to the configured gateway.
 
-Test internet connectivity with ping -c 4 1.1.1.1.
-
-Test DNS resolution with getent hosts www.networkwalks.com.
+Test internet connectivity with ping -c 4 1.1.1.1.<img width="1366" height="768" alt="Screenshot 2026-10-27 082918" src="https://github.com/user-attachments/assets/9c9ffaec-572f-453d-920b-88ff4edbf2f3" />
 
 Confirm the shared folder works as expected.
 
