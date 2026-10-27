@@ -25,7 +25,8 @@ Configure clipboard and drag-and-drop integration.
 
 Configure a shared host folder for file exchange.
 
-Take a virtual machine snapshot to support recovery.<img width="1366" height="768" alt="Screenshot 2026-10-26 205829" src="https://github.com/user-attachments/assets/07d20253-3888-48bf-bc29-57590842c10e" />
+Take a virtual machine snapshot to support recovery.<img width="1366" height="768" alt="Screenshot 2026-10-27 083355" src="https://github.com/user-attachments/assets/ad8aa048-6cef-422d-8695-8cc634e0a6d6" />
+
 
 
      Lab Architecture
@@ -56,7 +57,8 @@ Network subnet
 
 Planned Kali IP
 
-10.0.0.2/24
+10.0.0.2/24<img width="1366" height="768" alt="Screenshot 2026-10-27 082423" src="https://github.com/user-attachments/assets/a6bc36a9-5608-4ab0-9ee3-b3a8c4a40efb" />
+
 
 Shared folder
 
