@@ -115,7 +115,8 @@ Test connectivity to the configured gateway.
 
 Test internet connectivity with ping -c 4 1.1.1.1.<img width="1366" height="768" alt="Screenshot 2026-10-27 082918" src="https://github.com/user-attachments/assets/9c9ffaec-572f-453d-920b-88ff4edbf2f3" />
 
-Confirm the shared folder works as expected.
+Confirm the shared folder works as expected.<img width="1366" height="768" alt="Screenshot 2026-10-27 083912" src="https://github.com/user-attachments/assets/3cfb884c-15a7-44a8-bdcc-a66964585726" />
+
 
 Confirm that the virtual machine snapshot is available.
 
@@ -138,18 +139,6 @@ Learning Outcomes
 This practical exercise helped me understand the importance of virtualisation, network configuration, IP addressing, NAT networking, and preparing a controlled environment for cybersecurity testing.
 
 It also reinforced that a properly configured lab is an important foundation for learning ethical hacking safely.
-
-Next Steps
-
-Verify connectivity between lab machines.
-
-Add additional lab VMs when required by the training.
-
-Practise network reconnaissance within the authorised lab.
-
-Progress towards vulnerability assessment and penetration testing.
-
-Document each exercise, observation, and lesson learned.
 
 Acknowledgement
 
